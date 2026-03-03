@@ -1,4 +1,4 @@
-package Test45min.sessoin15;
+package Test45min.sessoin16;
 
 import java.util.*;
 
@@ -45,4 +45,5 @@ public class MainClass {
             System.out.println(entry.getKey() + ": " + entry.getValue());
         }
     }
+
 }
