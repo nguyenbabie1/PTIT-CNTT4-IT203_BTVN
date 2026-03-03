@@ -1,4 +1,4 @@
-package Test45min.sessoin15;
+package Test45min.sessoin16;
 
 public class ElectronicProduct extends Product{
     private int warrantyMonths;
@@ -19,3 +19,4 @@ public class ElectronicProduct extends Product{
         System.out.println("bảo hành"+ warrantyMonths +"tháng");
     }
 }
+
