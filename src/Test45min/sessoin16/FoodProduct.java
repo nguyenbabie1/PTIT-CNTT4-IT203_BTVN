@@ -1,4 +1,4 @@
-package Test45min.sessoin15;
+package Test45min.sessoin16;
 
 public class FoodProduct extends Product {
 
@@ -19,4 +19,5 @@ public class FoodProduct extends Product {
         super.displayInfo();
         System.out.println("Giảm giá: " + discountPercent + "%");
     }
+
 }
