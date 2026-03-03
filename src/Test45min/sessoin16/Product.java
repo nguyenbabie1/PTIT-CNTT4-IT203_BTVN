@@ -1,4 +1,4 @@
-package Test45min.sessoin15;
+package Test45min.sessoin16;
 
 public abstract class Product {
     protected String id;
@@ -19,4 +19,5 @@ public abstract class Product {
     public void displayInfo() {
         System.out.println("Mã: "+ id +"|Tên: "+ name +"|Giá gốc: "+ price);
     }
+
 }
