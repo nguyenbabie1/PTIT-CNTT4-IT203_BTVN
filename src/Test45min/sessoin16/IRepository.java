@@ -1,4 +1,4 @@
-package Test45min.sessoin15;
+package Test45min.sessoin16;
 
 import java.util.List;
 
@@ -9,4 +9,5 @@ public interface IRepository<T> {
     List<T> findAll();
 
 }
+
 
